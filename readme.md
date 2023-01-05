@@ -1,5 +1,5 @@
-# Group Project : Jedha Demoday 
 # Bloc n°6 : [Direction de projets de gestion de données 📁🔍] Mandatory for JedhaBootcamp certification
+# Group Project : Jedha Demoday 
 
 This is a repository containing the code of our group project for Jedha DemoDay.
 
