@@ -25,7 +25,7 @@ The purpose of this project is to :
 
 ### Clone the repository :
 
-git clone https://github.com/fezzibasma/Crypto-currency-dashboard-and-prediction.git
+  git clone https://github.com/fezzibasma/Crypto-currency-dashboard-and-prediction.git
 
 ### Analytic and Predictive Dashboard ( Follow my steps 😍 )
  
