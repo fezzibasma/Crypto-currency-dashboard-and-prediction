@@ -4,7 +4,7 @@
 This is a repository containing the code of our group project for Jedha DemoDay.
 
 EMail : fezzibasma@gmail.com                                                                                                                               
-Vidyard Link : [#](https://secure.vidyard.com/organizations/2881175/players/jBCLJ9Q45DEHfBZ4uVZtUX?edit=true)
+
 
 Analytic and Predictive Dashboard for the top 20 Cryptocurrencies by Market Capitalization
 
